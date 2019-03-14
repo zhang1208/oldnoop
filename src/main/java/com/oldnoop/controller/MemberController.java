@@ -41,7 +41,7 @@ public class MemberController {
 	}
 
 	/**
-	 * 注册，将用户名及密码添加到数据库
+	 * 注册，将用户名及密码添加到数据库,修改一下
 	 * 
 	 * @param user
 	 * @return
